@@ -1,0 +1,22 @@
+/* style.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header h1 {
+    font-size: 2.5rem;
+}
+
+.card img {
+    object-fit: cover;
+    height: 200px;
+}
+
+#about, #contact {
+    background-color: #f8f9fa;
+}
+
+form .form-control {
+    border-radius: 0.5rem;
+}
